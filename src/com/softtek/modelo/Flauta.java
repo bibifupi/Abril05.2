@@ -7,7 +7,7 @@ public class Flauta extends InstrumentoMusical {
 
     @Override
     public String emitirSonido() {
-        return "flauta";
+        return "fiufiu";
     }
 
     //Constructor

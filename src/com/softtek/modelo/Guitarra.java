@@ -7,7 +7,7 @@ public class Guitarra extends InstrumentoMusical {
 
     @Override
     public String emitirSonido() {
-        return "guitarra";
+        return "chanchanchanCHAN";
     }
 
     //Constructor
